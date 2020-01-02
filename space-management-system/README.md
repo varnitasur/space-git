@@ -1,6 +1,7 @@
 # SPACE MANAGEMENT SYSTEM
 
 ## Using Spring boot rest and Spring data jpa
+This is the space management application
 
 ## APIs : 
 URL: http://localhost:8081/roommanagement/room , method = POST
